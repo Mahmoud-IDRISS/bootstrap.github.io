@@ -62,7 +62,7 @@ div .projet-img{ /*6 rectangle photo bleu */
 
 }
 div .projet-img:hover{
-    margin: 20px 0 20px 0;
+   
     transition: box-shadow .3s;
     cursor: pointer;
     box-shadow: none;
